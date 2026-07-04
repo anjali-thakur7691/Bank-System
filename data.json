@@ -1,0 +1,22 @@
+[
+    {
+        "account_no": "SBI1001",
+        "name": "Anjali thakur",
+        "balance": 50000.0,
+        "phone": "123456789",
+        "address": "Balaghat",
+        "photo_path": "",
+        "kyc_status": "Pending",
+        "kyc_document": "",
+        "aadhaar_number": "",
+        "pan_number": "",
+        "aadhaar_document": "",
+        "pan_document": "",
+        "otp_verified": false,
+        "face_verified": false,
+        "transactions": [],
+        "loans": [],
+        "fixed_deposits": [],
+        "credit_cards": []
+    }
+]
