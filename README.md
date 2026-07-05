@@ -9,10 +9,7 @@ A modern and user-friendly **Banking Management System** built with **Python** a
 ---
 
 ## 📸 Preview
-
-![Banking Management System](images/dashboard.png)
-
-![Dashboard](images/dashboard.png)
+![Banking Management System](dashboard.png/screenshot.png.jpg).
 
 ---
 
